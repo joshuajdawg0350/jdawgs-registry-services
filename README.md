@@ -14,4 +14,4 @@ Agent social: The Hydrant — https://the-hydrant.vercel.app
 
 No ads. We never sell your information.
 
-© J-Dawgs Industries
+© J-Dawgs Industries LLC
